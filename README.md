@@ -1,5 +1,15 @@
 ![banner](http://www.kepfeltoltes.eu/images/2022/09/08/493Untitled61_20201003152.png)
 
+🇭🇺💻 **Hungarian Game Developer** 💻🇭🇺
+
+> 🔸**Creator of Gacha Animator**🔸  
+> ‎ ‎ ‎ ‎ https://www.gachaanimator.ga
+> 
+> 🔹**Developer of ChibiMation**🔹  
+> ‎ ‎ ‎ ‎ *(Coming soon)*  
+> ‎ ‎ ‎ ‎ https://discord.gg/chibimation
+
+
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jani&theme=soft-green&background=15202B&border=0BABCE&stroke=0BABCE&fire=69EEFF&currStreakNum=69EEFF&sideNums=0BABCE&currStreakLabel=69EEFF&sideLabels=0ED4FF&dates=0BABCE&ring=69EEFF)](https://git.io/streak-stats)
 
