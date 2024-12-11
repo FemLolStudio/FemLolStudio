@@ -5,9 +5,6 @@
 > 🔸**Creator of Gacha Animator**🔸  
 > ‎ ‎ ‎ ‎ https://www.gachaanimator.ga
 > 
-> 🔹**Developer of ChibiMation**🔹  
-> ‎ ‎ ‎ ‎ *(Coming soon)*  
-> ‎ ‎ ‎ ‎ https://discord.gg/chibimation
 
 
 <!--
