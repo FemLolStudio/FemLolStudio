@@ -1,4 +1,4 @@
-![banner](http://www.kepfeltoltes.eu/images/2022/09/08/493Untitled61_20201003152.png)
+![banner](banner.png)
 
 🇭🇺💻 **Hungarian Game Developer** 💻🇭🇺
 
